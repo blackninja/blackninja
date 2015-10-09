@@ -1,6 +1,9 @@
 # blackninja
+Black Ninja
+(https://lh3.ggpht.com/2FncY_wUnlxNOgUVt7jPGSsv7A1BARb9q0bX8QoKKKv7USebeG5220g04ZV5Ousbxqle=w300)
+
 Go Lang API-Driven CMS
 
 Open Source Go Lang API-Driven CMS
 
-Contact me at: jordan@blackninja.io
+Join me at: jordan@blackninja.io
