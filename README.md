@@ -8,4 +8,4 @@ Open Source Go Lang API-Driven CMS
 Join me at: jordan@blackninja.io
 
 
-## Self hosted open-source API contentful. The next eveolution of wordpress.
+## Self hosted open-source API contentful. The next evolution of wordpress.
